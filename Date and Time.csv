@@ -1,0 +1,4 @@
+Parent ID,Issue ID,Issue Type,Sub-Task Summary,Sub-Task Description
+,,Sub-task,Adjust the time/date to anything and press apply. Exit to the main screen,It should show the date you just set it to
+,,Sub-task,Restart system and make sure date/time do not change,Date and time should not change
+,,Sub-task,Install update and check date/time,date/time should not change

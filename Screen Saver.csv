@@ -1,0 +1,14 @@
+Parent ID,Issue ID,Issue Type,Sub-Task Summary,Sub-Task Description
+,,Sub-task,Add a Photo,
+,,Sub-task,Delete a Photo,
+,,Sub-task,Add image,
+,,Sub-task,Delete Image,
+,,Sub-task,Add slide,
+,,Sub-task,Delete slide,
+,,Sub-task,Reorder images,
+,,Sub-task,Toggle different transition effects,
+,,Sub-task,Toggle slide duration seconds,
+,,Sub-task,Create a random screensaver and press test,
+,,Sub-task,Toggle timeout minutes on slide show,Verify it activates after that time
+,,Sub-task,Toggle timeout minutes on Logo,Verify it activates after that time
+,,Sub-task,Select disabled,Wait the timeout minute time to verify it will not activate

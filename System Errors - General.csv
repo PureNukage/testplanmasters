@@ -1,0 +1,8 @@
+Parent ID,Issue ID,Issue Type,Sub-Task Summary,Sub-Task Description
+,,Sub-task,Enter a Valid Pin Number,Pin accepted message appears?
+,,Sub-task,Enter an Invalid Pin Number,Invalid pin number appears?
+,,Sub-task,Try loading an image from a USB stick with no USB stick,No thumbdrive message appears?
+,,Sub-task,Try loading an image from a DVD with no disc,No CD found in the drive message appears?
+,,Sub-task,Have no printer plugged in,Proper error message appeared?
+,,Sub-task,"On Mass, get a low media count",Proper error message appeared?
+,,Sub-task,"On mass, deplete media count",Proper error message appeared?

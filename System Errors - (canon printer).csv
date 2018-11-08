@@ -1,0 +1,23 @@
+Parent ID,Issue ID,Issue Type,Sub-Task Summary,Sub-Task Description
+,,Sub-task,Cause A Paper Jam,Paper Jam Message Appears?
+,,Sub-task,Ink Tank Empty Black,Ink Tank Empty Message Appears ?
+,,Sub-task,Ink Tank Empty Black Large,Ink Tank Empty Message Appears ?
+,,Sub-task,Ink Tank Empty Cyan,Ink Tank Empty Message Appears ?
+,,Sub-task,Ink Tank Empty Magenta,Ink Tank Empty Message Appears ?
+,,Sub-task,Ink Tank Empty Yellow,Ink Tank Empty Message Appears ?
+,,Sub-task,Ink Tank Low Black,Ink Tank Low Message Apperas?
+,,Sub-task,Ink Tank Low Black Large,Ink Tank Low Message Apperas?
+,,Sub-task,Ink Tank Low Cyan,Ink Tank Low Message Apperas?
+,,Sub-task,Ink Tank Low Magenta,Ink Tank Low Message Apperas?
+,,Sub-task,Ink Tank Low Yellow,Ink Tank Low Message Apperas?
+,,Sub-task,No Printer Connected,Cannot Find Printer Message Appears?
+,,Sub-task,Open Inner Cover,Inner Cover Open Message Appears ?
+,,Sub-task,Print With No Media,Insert Media Message Appears?
+,,Sub-task,Remove Black,Ink Tank Missing Message Appears ?
+,,Sub-task,Remove Black Large,Ink Tank Missing Message Appears ?
+,,Sub-task,Remove Cyan,Ink Tank Missing Message Appears ?
+,,Sub-task,Remove Magenta,Ink Tank Missing Message Appears ?
+,,Sub-task,Remove Print Head,Missing Printhead Message Apperas?
+,,Sub-task,Remove Yellow,Ink Tank Missing Message Appears ?
+,,Sub-task,Scan With Nothing In The Scanner,No Photo Detected Message Appears?
+,,Sub-task,No Scanner Connected,Cannot Find Scanner Message Appears?

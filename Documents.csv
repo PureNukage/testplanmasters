@@ -1,0 +1,11 @@
+Parent ID,Issue ID,Issue Type,Sub-Task Summary,Sub-Task Description
+,,Sub-task,Print a Licensed Artwork Order Form (random item#),It should be an order form for the image you selected
+,,Sub-task,Print a Licensed Frames Order Form (random item#),It should be an order form for the image you selected
+,,Sub-task,Print a Customer Cake Order Form,It should print a customer cake order form
+,,Sub-task,Print a Purchases by Date Range (ideally range encompasses times you have typed in pins),It should have all the pins purchased during that range
+,,Sub-task,Print a Purchases since last Report,"It should have all pins since you last printed this (if no pins, please type one in and test)"
+,,Sub-task,Print a Complete Purchase History Report,It should have your systems entire pin history
+,,Sub-task,Print a On-Hand Inventory Report,It should have all On-Hand quantity
+,,Sub-task,Print a Text Color and Font Chart form,It should print with all current fonts
+,,Sub-task,Print a Preventative Maintenance Checklist,It should print
+,,Sub-task,Print the PhotoCake IV Image Guide,It should print the most up-to-date Image Guide
